@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-editor-app/static/css/main.3e89e119.chunk.css",
+    "main.js": "/react-editor-app/static/js/main.cb06ad2b.chunk.js",
+    "main.js.map": "/react-editor-app/static/js/main.cb06ad2b.chunk.js.map",
+    "runtime-main.js": "/react-editor-app/static/js/runtime-main.6cda7bad.js",
+    "runtime-main.js.map": "/react-editor-app/static/js/runtime-main.6cda7bad.js.map",
+    "static/js/2.3dd3b455.chunk.js": "/react-editor-app/static/js/2.3dd3b455.chunk.js",
+    "static/js/2.3dd3b455.chunk.js.map": "/react-editor-app/static/js/2.3dd3b455.chunk.js.map",
+    "index.html": "/react-editor-app/index.html",
+    "static/css/main.3e89e119.chunk.css.map": "/react-editor-app/static/css/main.3e89e119.chunk.css.map",
+    "static/js/2.3dd3b455.chunk.js.LICENSE.txt": "/react-editor-app/static/js/2.3dd3b455.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cda7bad.js",
+    "static/js/2.3dd3b455.chunk.js",
+    "static/css/main.3e89e119.chunk.css",
+    "static/js/main.cb06ad2b.chunk.js"
+  ]
+}

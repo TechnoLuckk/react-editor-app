@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@600&display=swap');
+body{
+    font-family: 'Rajdhani', sans-serif;
+}
+.nav{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    box-shadow: 0 3px 6px 0 #555;
+}
+.file-pane{
+    background-color: rgb(215, 215, 215);
+    max-height: 270px;
+    min-width : 20%;
+    height: auto !important;
+    box-shadow: 0 3px 0 0 #555;
+}
+.file-list{
+    list-style-type: none;
+    padding: 10px;
+}
+.file-list li{
+    margin: 7px;
+    cursor: pointer;
+    padding:20px;
+}
+
+.file-list li:hover{
+    color : lightgreen;
+    background-color:black;
+    border-radius: 15px;
+    border-right:20px solid black;
+}
+
+.editor-main{
+    background-color : white;
+    padding : 10px;
+    min-width : 80%;
+}
+textarea {
+    background: url(http://i.imgur.com/2cOaJ.png);
+    background-attachment: local;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+    padding-top: 10px;
+    border-color:#ccc;
+    resize : none;
+}
+.live-view{
+    max-height : 270px;
+    height: auto !important;
+    border: 2px solid black;
+    padding:5px;
+    max-width : 100%;
+}
+div.scroll{
+    margin:4px, 4px;
+                padding:4px;
+                width: 500px;
+                min-height : 100px;
+                max-height: 110px;
+                overflow-x: hidden;
+                overflow-y: auto;
+                text-align:justify;
+}
